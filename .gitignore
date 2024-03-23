@@ -1,7 +1,7 @@
 .DS_Store
 
 # datalake/
-cgpt.txt
+cgpt.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
